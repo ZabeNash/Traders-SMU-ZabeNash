@@ -1,64 +1,29 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Zabe Brian Nash   
+zbnash@smu.edu
+Level 1 (Junior) 
 
 ## 1. Background in Quantitative Finance
 
-*In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
+Quantitative finance is very new to me. I am majoring in applied mathematics and finance and plan on minoring in statistics. I am currently in Honors Linear Algebra and am en route to completing Differential Equations by the fall of my sophomore year. These are two classes that are crucial to quantitative finance. I have a small amount of trading experience, including managing my portfolio of diverse stocks that I plan to hold for multiple years. I have recently discovered quantitative finance. I am interested in the industry's high emphasis on mathematical applications, such as the various models and relationships used for pricing derivatives and estimating stock prices. I have a strong passion for mathematics but have struggled to figure out how to apply my skills to business. Quantitative finance is the solution. 
 
-*Delete these instructions and write 100-150 words*
 
 ## 2. Career Goals
 
-*In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
-
-*Delete these instructions and write 100-150 words*
+Three roles in quantitative finance that interest me are risk managers, quantitative researchers, and quantitative analysts. All of these positions include using math and statistics in their everyday workload. I would like to work for investment firms and insurance companies, as they rely on these roles heavily. In one year, I plan to learn Python, gain a solid grasp of the quantitative finance market, and further my math and statistical abilities. In five years, I plan to have completed my intended majors and minor, and, depending on the role I choose, I will either work for an insurance company or apply for graduate school for mathematics. Finally, in ten years, I plan to finish schooling and enter the quantitative finance market as a quantitative researcher or continue working as a risk manager at an insurance company or investment firm.
 
 ## 3. What I Hope to Learn from This Program
 
-*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
-
-*Delete these instructions and write 100-150 words*
+I plan to further enhance my mathematical and statistical skills in the Alpha Program. In addition, I plan to learn how to code in Python and C++. I would also like to learn about the various financial models, their components, and their applications. While learning from the program, I will gain insight into prominent figures in quantitative finance and be surrounded by individuals who share the same passion as I do for breaking into the industry. This program will act as a guide to how I can not only learn about quantitative finance but also enter the highly competitive industry. The program will allow me to maximize my skills and pursue my passions freely in quantitative finance.
 
 ## 4. Current Technical Skills
 
-*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
-
-*Delete these instructions and write 75-100 words*
+I would rank myself as a beginner in programming languages such as Python and R. In data analysis tools, I would also rank myself as a beginner. I plan to be certified as an Excel Expert this summer, and I am currently using MATLAB in my math course. I would also rank myself as a beginner in financial modeling, machine learning, and version control. I would rank myself as intermediate in numerical skills such as math and statistics. However, I am eager to learn more about each of these technical skills.
 
 ## 5. Development Plan & Program Goals
 
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
-
-*Delete these instructions and write 100-150 words*
+In this course of 8 weeks, I plan to develop my coding skills and increase my overall knowledge of quantitative finance. This means learning about the various models, their applications, and other mathematical aspects of the industry, such as the Greek letters and their significance in finance. I will dedicate 4-8 hours a week to completing homework, actively pursuing coding programs, and researching various models to achieve this goal. Some resources I will use to accomplish this goal are YouTube, LeetCode, and Harvard’s Intro to Computer Science course. My definition of success in this program is learning at least one coding language and becoming familiar with others. I would also like to know essential models, such as the Black-Scholes model confidently. Furthermore, I want to feel knowledgeable about the quantitative finance market and keep up with current events.
 
 ---
 
